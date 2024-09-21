@@ -12,8 +12,8 @@ Chetan
 REVA UNIVERSITY
 # General content
 (All the teammates are requested to enter your text strictly in line 15 only)
-Hello this is me!
-I'm from Karnataka 
+Hello this is me! 
+How are you guys
 
 
 
